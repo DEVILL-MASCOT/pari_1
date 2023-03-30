@@ -14,8 +14,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918130784851'] //ur owner number
-global.ownername = "𝙈𝘼𝙎𝙏𝙀𝙍☤​᭄𝙉𝙀𝙓𝙐𝙎" 
+global.owner = ['918302709491'] //ur owner number
+global.ownername = "❤𝙌𝙐𝙀𝙀𝙉☤​᭄𝙆𝙃𝙐𝙎𝙃𝙄☘︎" 
 global.ytname = "YT: NEXUSMODS" //ur yt chanel name
 global.socialm = "GitHub: NEXUSAT12" //ur github or insta name
 global.location = "India, Ghaziabad, Rajnagar" //ur location
