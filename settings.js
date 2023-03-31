@@ -14,16 +14,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918302709491'] //ur owner number
-global.ownername = "❤𝙌𝙐𝙀𝙀𝙉☤​᭄𝙆𝙃𝙐𝙎𝙃𝙄☘︎" 
+global.owner = ['918822458364'] //ur owner number
+global.ownername = "𝙌ᵘᵉᵉⁿ ᴾᴬᴿᴵ" 
 global.ytname = "YT: NEXUSMODS" //ur yt chanel name
 global.socialm = "GitHub: NEXUSAT12" //ur github or insta name
 global.location = "India, Ghaziabad, Rajnagar" //ur location
 
 //bot bomdy 
-global.ownernomer = "918302709491" //ur number
-global.premium = ['918302709491'] //ur premium number
-global.botname = '𓆩⍣⃝🇽‌𝐢𝐚𝐨-𝐁𝐎𝐓⃢𓆪' //ur bot name
+global.ownernomer = "918822458364" //ur number
+global.premium = ['918822458364'] //ur premium number
+global.botname = "𓆩⍣⃝🇽‌𝐢𝐚𝐨-𝐁𝐎𝐓⃢𓆪" //ur bot name
 global.linkz = "https://chat.whatsapp.com/KdCiUuENgOFEYJMHV3jZNj" //your theme url which will be displayed on whatsapp
 global.websitex = "https://nexus21.carrd.co/" //ur website to be displayed
 global.botscript = 'https://github.com/NEXUSAT12/Xiao-MD-2' //script link
